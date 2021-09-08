@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn :- [HERE](https://www.linkedin.com/in/harsh-dwivedi-18224b196/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am into all sports
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshCodes-07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
