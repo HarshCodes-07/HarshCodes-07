@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Full Stack Developement
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Competetive Programming
 - 📫 How to reach me: LinkedIn :- [HERE](https://www.linkedin.com/in/harsh-dwivedi-18224b196/) , Codechef (3 star) : [HERE](https://www.codechef.com/users/hrxcr7) , Codeforces ( MAX : SPECIALIST(1453 Rating) : [HERE](https://codeforces.com/profile/hrxcr7)
