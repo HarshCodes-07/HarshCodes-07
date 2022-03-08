@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am into all sports
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshCodes-07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=HarshCodes-07&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshCodes-07&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
